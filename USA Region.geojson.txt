@@ -1,0 +1,133 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "region": "BA" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-123.00, 37.00],
+            [-123.00, 38.00],
+            [-122.00, 38.00],
+            [-122.00, 37.00],
+            [-123.00, 37.00]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "region": "LA" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-119.00, 33.50],
+            [-119.00, 34.50],
+            [-118.00, 34.50],
+            [-118.00, 33.50],
+            [-119.00, 33.50]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "region": "NW" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-125.00, 45.00],
+            [-125.00, 49.00],
+            [-120.00, 49.00],
+            [-120.00, 45.00],
+            [-125.00, 45.00]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "region": "NE" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-74.00, 40.00],
+            [-74.00, 45.00],
+            [-70.00, 45.00],
+            [-70.00, 40.00],
+            [-74.00, 40.00]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "region": "MW" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-95.00, 36.00],
+            [-95.00, 49.00],
+            [-85.00, 49.00],
+            [-85.00, 36.00],
+            [-95.00, 36.00]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "region": "SD" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-117.50, 32.50],
+            [-117.50, 33.00],
+            [-117.00, 33.00],
+            [-117.00, 32.50],
+            [-117.50, 32.50]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "region": "SE" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-85.00, 25.00],
+            [-85.00, 36.00],
+            [-75.00, 36.00],
+            [-75.00, 25.00],
+            [-85.00, 25.00]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "region": "TX" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-106.00, 25.00],
+            [-106.00, 36.50],
+            [-93.50, 36.50],
+            [-93.50, 25.00],
+            [-106.00, 25.00]
+          ]
+        ]
+      }
+    }
+  ]
+}
